@@ -47,7 +47,7 @@ Feature: Navigation to application
 ## How to Run the Tests
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/BDD-Cucumber-Framework.git
+   git clone https://github.com/Lokesh-VijayaKumar/BDD-Cucumber-Framework.git
 2. Navigate to Project folder:
     cd BDD-Cucumber-Framework
 3. Run the tests using Maven:
